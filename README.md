@@ -10,4 +10,4 @@ In this Jupyter Notebook, we analyse temperature threshold exceedance over a 10-
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/temperature-threshold-analysis.git
+   git clone https://github.com/Bongani-Mkhize/temperature-threshold-analysis.git
