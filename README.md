@@ -1,8 +1,6 @@
-# temperature-threshold-analysis
-
 # Temperature Threshold Analysis
 
-This Jupyter Notebook analyzes temperature threshold exceedance over a 10-year period using Python and NetCDF data.
+In this Jupyter Notebook, we analyse temperature threshold exceedance over a 10-year period using Python and NetCDF data.
 
 ## Requirements
 - Python 3.x
