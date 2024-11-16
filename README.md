@@ -7,7 +7,4 @@ In this Jupyter Notebook, we analyse temperature threshold exceedance over a 10-
 - Jupyter Notebook
 - Libraries: `xarray`, `matplotlib`, `cartopy`
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Bongani-Mkhize/temperature-threshold-analysis.git
+
